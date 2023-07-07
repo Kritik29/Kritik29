@@ -1,11 +1,8 @@
 # Hello, I'm Kritik! 👋
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritik29)](https://github.com/anuraghazra/github-readme-stats)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
